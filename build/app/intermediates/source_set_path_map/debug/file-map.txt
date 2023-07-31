@@ -1,0 +1,12 @@
+com.example.ui_e_notes.app-jetified-window-1.0.0-beta04-0 /Users/technomac20/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.ui_e_notes.app-jetified-annotation-experimental-1.1.0-1 /Users/technomac20/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.ui_e_notes.app-core-1.6.0-2 /Users/technomac20/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.ui_e_notes.app-jetified-window-java-1.0.0-beta04-3 /Users/technomac20/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.ui_e_notes.app-debug-4 /Users/technomac20/ui_e_notes/android/app/src/debug/res
+com.example.ui_e_notes.app-main-5 /Users/technomac20/ui_e_notes/android/app/src/main/res
+com.example.ui_e_notes.app-pngs-6 /Users/technomac20/ui_e_notes/build/app/generated/res/pngs/debug
+com.example.ui_e_notes.app-resValues-7 /Users/technomac20/ui_e_notes/build/app/generated/res/resValues/debug
+com.example.ui_e_notes.app-rs-8 /Users/technomac20/ui_e_notes/build/app/generated/res/rs/debug
+com.example.ui_e_notes.app-mergeDebugResources-9 /Users/technomac20/ui_e_notes/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.ui_e_notes.app-mergeDebugResources-10 /Users/technomac20/ui_e_notes/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.ui_e_notes.app-merged_res-11 /Users/technomac20/ui_e_notes/build/app/intermediates/merged_res/debug
